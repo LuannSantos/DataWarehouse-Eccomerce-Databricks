@@ -44,4 +44,4 @@ Em ambas as versões, basta executar os scripts do Databricks. Porém, antes de 
 
 Para a primeira versão, salve os arquivos de dados no DBFS do Databricks e fique atento aos nomes das pastas.
 
-Para a segunda versão versão, esse projeto seguiu os tutoriais presentes nos seguintes videos:https://www.youtube.com/watch?v=0uD2fqgdeQM e https://www.youtube.com/watch?v=tvaNX231sXQ&t=1s. Além disso, para criar os segredos, esse projeto seguiu o seguinte tutorial: https://www.youtube.com/watch?v=tvaNX231sXQ&t=1s.
+Para a segunda versão, esse projeto seguiu os tutoriais presentes nos seguintes videos: https://www.youtube.com/watch?v=0uD2fqgdeQM e https://www.youtube.com/watch?v=tvaNX231sXQ&t=1s. Além disso, para criar os segredos, esse projeto seguiu o seguinte tutorial: https://www.youtube.com/watch?v=tvaNX231sXQ&t=1s.
